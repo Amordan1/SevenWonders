@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "photo-viewer",
-    "slug": "photo-viewer",
+    "name": "SevenWonders",
+    "slug": "sevenwonders-rm634127",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/sevenSplash.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/sevenSplash.png",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
